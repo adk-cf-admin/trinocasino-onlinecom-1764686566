@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://trinocasino-online.com/
+Sitemap: https://trinocasino-online.com/sitemap.xml
